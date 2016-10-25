@@ -7,9 +7,19 @@
  */
 
 html {
-  font-family: sans-serif; /* 1 */
-  -ms-text-size-adjust: 100%; /* 2 */
-  -webkit-text-size-adjust: 100%; /* 2 */
+	font-family: sans-serif; /* 1 */
+	-ms-text-size-adjust: 100%; /* 2 */
+	-webkit-text-size-adjust: 100%; /* 2 */
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+	background-position: center center;
+	font-size: 9px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	font-variant: normal;
 }
 
 /**
@@ -17,7 +27,9 @@ html {
  */
 
 body {
-  margin: 0;
+	margin: 1px;
+	text-align: center;
+	padding: 0px;
 }
 
 /* HTML5 display definitions
@@ -426,8 +438,14 @@ optgroup {
  */
 
 table {
-  border-collapse: collapse;
-  border-spacing: 0;
+	border-collapse: collapse;
+	border-spacing: 0;
+	float: none;
+	height: auto;
+	width: auto;
+	text-align: center;
+	white-space: normal;
+	clear: none;
 }
 
 td,

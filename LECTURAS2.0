@@ -47,10 +47,10 @@ function MM_swapImage() { //v3.0
     		<nav>
               <ul class="menu">
                 <li><a href="file:///C|/Users/Familia Bohorquez/Google Drive/UNIVERSIDAD/DISEÑO DE PAGINAS WEB/Nueva carpeta/PLANTILLA OVA FINAL 16-4/index.html" class="menu">Inicio</a></li>
-                <li><a href="Lecturas.html" class="menu">Lecturas</a></li>
-                <li><a href="ACTIVIDADES1.html" class="menu">Multimedia</a><a href="MULTIMEDIA1.html"></a></li>
-                <li><a href="ACTIVIDADES1.html" class="menu">Actividades</a></li>
-                <li><a href="Autores.html" class="menu">Autores</a></li>
+                <li><a href="file:///C|/Users/Familia Bohorquez/Google Drive/UNIVERSIDAD/DISEÑO DE PAGINAS WEB/Nueva carpeta/PLANTILLA OVA FINAL 16-4/lecturas.html" class="menu">Lecturas</a></li>
+                <li><a href="file:///C|/Users/Familia Bohorquez/Google Drive/UNIVERSIDAD/DISEÑO DE PAGINAS WEB/Nueva carpeta/PLANTILLA OVA FINAL 16-4/multimedia.html" class="menu">Multimedia</a></li>
+                <li><a href="file:///C|/Users/Familia Bohorquez/Google Drive/UNIVERSIDAD/DISEÑO DE PAGINAS WEB/Nueva carpeta/PLANTILLA OVA FINAL 16-4/actividades.html" class="menu">Actividades</a></li>
+                <li><a href="file:///C|/Users/Familia Bohorquez/Google Drive/UNIVERSIDAD/DISEÑO DE PAGINAS WEB/Nueva carpeta/PLANTILLA OVA FINAL 16-4/autores.html" class="menu">Autores</a></li>
                 <div id="apDiv19">
                 <center>
                 	<div id="cuentavisitas"></div>
@@ -80,8 +80,8 @@ function MM_swapImage() { //v3.0
                     <input type="radio" name="sitesearch" value="https://estudios.unad.edu.co/ingenieria-de-sistemas" checked="checked" />
                     <font color="white"> ECBTI </font>
                    </form>
-              </div>
-    </nav>
+                </div>
+             </nav>
             <div id="apDiv14"><a href="https://campus0a.unad.edu.co/campus0/login/index.php" target="_blank"><img src="file:///C|/Users/Familia Bohorquez/Google Drive/UNIVERSIDAD/DISEÑO DE PAGINAS WEB/Nueva carpeta/PLANTILLA OVA FINAL 16-4/img/campus.png" width="116" height="101"></a>									</div>
     <section>
     <h2>OVA Para curso 301122A_291 - Introducción al desarrollo de software</h2>
